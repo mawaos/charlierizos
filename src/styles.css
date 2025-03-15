@@ -1,0 +1,7 @@
+/* styles.css */
+body {
+  background-color: #d9c5b2;
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Asegúrate de que cubra todo el viewport */
+}
